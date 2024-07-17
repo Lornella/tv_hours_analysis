@@ -1,4 +1,4 @@
-library(dplyr)
+library(tidyverse)
 library(here)
 
 tv_hours_table <- gss_cat %>% 
